@@ -1,1 +1,1 @@
-# MERN
+# MERN Course by SKYREK
